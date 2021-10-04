@@ -84,7 +84,7 @@ span{
   margin: 0 auto;
   line-height: 30px;
   letter-spacing: 1px;
-  color:black;
+  color:white;
 }
 
 a{
@@ -227,7 +227,7 @@ a:hover{
   max-height: 100%;
   top:0;
   background-color: #1f1f1f;
-  z-index: 10;
+  z-index: 20;
   border-bottom: solid 1px;
 }
 
@@ -423,8 +423,8 @@ background-color:#ff2200}
 }
 
 .mainLogo{
-  width: 20%;
-  max-width: 200px;
+  width: 30%;
+  max-width: 300px;
   height: auto;
   opacity: 0.8;
   margin-bottom: 30px;

@@ -34,10 +34,10 @@
 
                         </div>
 
-                        <span class="teamName">Alexandru Ionut Budisteanu</span>
-                        <span class="teamRole">Founder & Protocol Dev.</span>
+                        <span class="teamName">Chris S. Douglas, Esq.</span>
+                        <span class="teamRole">Founder & Concept/Project Developer</span>
                         <p class="description">
-                            Alexandru is a Forbes Europe 30 under 30 nominee in industry category. In 2013, he was nominated by Time Magazine as one of the most influential teens of the world. MIT named an asteroid with his name.
+                            Chris  is a Forbes Europe 30 under 30 nominee in industry category. In 2013, he was nominated by Time Magazine as one of the most influential teens of the world. MIT named an asteroid with his name.
                         </p>
                     </div>
 
@@ -53,9 +53,24 @@
                                 </ul>
                             </div>
                         </div>
-                        <span class="teamName">Alexandru Ionut Panait</span>
+                        <span class="teamName">Brenton L. Davis</span>
                         <span class="teamRole">General Manager & Platform Dev.</span>
-                        <p>Alexandru is a young entrepreneur interested in technology and business. Founder of a digitization movement in Romania, called <a href="https://e-primariata.ro/auth/login-page">E-PrimariaTa.ro</a></p>
+                        <p>Brenton is a young entrepreneur interested in technology and business. Founder of a digitization movement in Romania, called <a href="https://e-primariata.ro/auth/login-page">E-PrimariaTa.ro</a></p>
+                    </div>
+
+                    <div>
+                        <img src="/public/assets/images/imperium logo.png" alt="Cryptocurrency of the future" title="Cryptocurrency of the future" id="ImperiumLogo" class="mainLogo fadeIn">
+                        <span class="teamName">Claudiu Murgan</span>
+                        <span class="teamRole">Co-Founder & Strategic Manager</span>
+                        <p>is a young entrepreneur interested in technology and business. Founder of a digitization movement in Romania, called <a href="https://e-primariata.ro/auth/login-page">E-PrimariaTa.ro</a></p>
+                    </div>
+
+                    <div>
+                        <img src="/public/assets/images/imperium logo.png" alt="Cryptocurrency of the future" title="Cryptocurrency of the future" id="ImperiumLogo" class="mainLogo fadeIn">
+
+                        <span class="teamName">Albert Babinskas</span>
+                        <span class="teamRole">Co-Founder & Payment Developer</span>
+                        <p>is a young entrepreneur interested in technology and business. Founder of a digitization movement in Romania, called <a href="https://e-primariata.ro/auth/login-page">E-PrimariaTa.ro</a></p>
                     </div>
 
                 </div>
@@ -79,10 +94,11 @@
                             </ul>
                         </div>
                     </div>
-                    <span class="teamName">Razvan Ceana</span>
-                    <span class="teamRole">Senior Technical Manager</span>
+                    <span class="teamName">Alok Agrawal</span>
+                    <span class="teamRole">Founder & Director QUEST Technologies
+</span>
                     <p class="description">
-                        Răzvan is a software engineer with extensive experience in developing high scalability and high availability applications. He is part of a team that develops software for public procurement involving real time data processing and Blockchain research integrations.
+                        Alok is a software engineer with extensive experience in developing high scalability and high availability applications. He is part of a team that develops software for public procurement involving real time data processing and Blockchain research integrations.
                     </p>
                 </div>
 
@@ -95,10 +111,11 @@
                             </ul>
                         </div>
                     </div>
-                    <span class="teamName">Ionut Moraru</span>
-                    <span class="teamRole">Automation Specialist</span>
+                    <span class="teamName">Mohit SOOD</span>
+                    <span class="teamRole">Director Quest Technologies
+</span>
                     <p class="description">
-                        Ionut is a software developer with over 10 years of experience working with web and mobile technologies. He is a Consensys certified developer and founder of <a href="https://www.hostero.eu" target="_blank">Hostero.eu</a>, a mining software for cryptocurrencies.
+                        Mohit is a software developer with over 10 years of experience working with web and mobile technologies. He is a Consensys certified developer and founder of <a href="https://www.hostero.eu" target="_blank">Hostero.eu</a>, a mining software for cryptocurrencies.
                     </p>
                 </div>
 
@@ -111,8 +128,9 @@
                             </ul>
                         </div>
                     </div>
-                    <span class="teamName">Adrian Vladu</span>
-                    <span class="teamRole">Blockchain Developer</span>
+                    <span class="teamName">Romil Jain</span>
+                    <span class="teamRole">Co-Founder & Director of Quest technologies
+</span>
                     <p class="description">
                         With more than 6 years of open source activity, Adrian Vladu is a seasoned full stack developer with multiple contributions for projects under the OpenStack umbrella. He manages Imperium.network, an open source blockchain explorer for Imperium.
                     </p>

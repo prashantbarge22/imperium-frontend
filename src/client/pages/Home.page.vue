@@ -27,7 +27,7 @@
 
                 <team-hero/>
 
-                <know-us-hero/>
+                <!-- <know-us-hero/> -->
 
             </div>
 
@@ -48,7 +48,7 @@
     import WhatIsHero from "client/components/heros/About.hero.vue";
     import PeerToPeerHero from "client/components/heros/Peer-To-Peer.hero.vue";
     import TimelineHero from "client/components/heros/Timeline.hero.vue";
-    import KnowUsHero from "client/components/heros/Media.hero.vue";
+    // import KnowUsHero from "client/components/heros/Media.hero.vue";
     import FaqHero from "client/components/heros/Faq.hero.vue";
     import PartnersHero from "client/components/heros/Partners.hero.vue";
     import NewCryptoGenerationHero from "client/components/heros/Features.hero.vue";
@@ -68,7 +68,7 @@
             WhatIsHero,
             PeerToPeerHero,
             TimelineHero,
-            KnowUsHero,
+            // KnowUsHero,
             FaqHero,
             PartnersHero,
             NewCryptoGenerationHero,

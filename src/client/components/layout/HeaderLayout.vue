@@ -5,7 +5,7 @@
   <div class="topnav" id="menu">
 
     <router-link to="/#mainSection" id="logoBox" class="active logoMenu" :class="this.mobileMenuOpened && this.isMobile ? 'openedMenuLink' : '' ">
-      <img v-on:click="this.collapseMenuBack" src="/public/assets/images/WebDollar-logo-white.png" alt="Cryptocurrency of the future" id="logo" title="Cryptocurrency of the future" />
+      <img v-on:click="this.collapseMenuBack" src="/public/assets/images/WebDollar-logo-white (2).png" alt="Cryptocurrency of the future" id="logo" title="Cryptocurrency of the future"/>
     </router-link>
 
     <router-link to="/#papers" :class="mobileMenuOpened && this.isMobile ? 'openedMenuLink' : '' ">

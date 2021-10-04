@@ -15,7 +15,7 @@
 
                         <select id="poolConnectionSelect" v-model="poolsListSelected" class="poolSelect" @change="handleConnectionSelect">
                             <option class="poolSelectOption" >Consensus (No Pool)</option>
-                            <option v-bind="(poolListElement, index) in this.poolsList" class="poolSelectOption"  >
+                            <option v-for="(poolListElement, index) in this.poolsList" class="poolSelectOption"  >
                                 {{poolListElement.poolName}}
                             </option>
                         </select>
