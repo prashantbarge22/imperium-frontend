@@ -5,7 +5,7 @@
   "author": "WebDollar.io",
   "scripts": {
     "start": "npm run build:static &&  nodemon ./node_modules/serve/bin/serve.js  ",
-    "build": "npm run build:static && nodemon ./node_modules/serve/bin/serve.js",
+    "build": "npm run build:static",
     "build:static": "cross-env NODE_ENV=development webpack --config build/webpack.static.config.js --progress --hide-modules",
     "build:static-prod": "cross-env NODE_ENV=production webpack --config build/webpack.static.config.js --progress --hide-modules",
     "test": "npm run build:static"
